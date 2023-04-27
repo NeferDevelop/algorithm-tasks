@@ -14,16 +14,20 @@
 </ul>
 </ul>
 
-<img src = "C:\Study\Java Learning\Pictures\hint_valid_mountain_array.png" width = "400" height = "300">
-Example 1:
+### **Example 1:**
 
-Input: arr = [2,1]
-Output: false
-Example 2:
+&nbsp; _Input: arr = [2,1]_
 
-Input: arr = [3,5,5]
-Output: false
-Example 3:
+&nbsp;_Output: false_
 
-Input: arr = [0,3,2,1]
-Output: true
+### **Example 2:**
+
+&nbsp;_Input: arr = [3,5,5]_
+
+&nbsp;_Output: false_
+
+### **Example 3:**
+
+&nbsp;_Input: arr = [0,3,2,1]_
+
+&nbsp;_Output: true_
