@@ -1,8 +1,10 @@
-<h1 align="center"> Valid Mountain <\h1>
+<h1 align="center"> Valid Mountain </h1>
 
 ###Given an array of integers arr, return true if and only if it is a valid mountain array
 
 ###Recall that arr is a mountain array if and only if:
+  
+  
 <ul>
 <li>arr.length >= 3</li>
 <li>There exists some i with 0 < i < arr.length - 1 such that:</li>
