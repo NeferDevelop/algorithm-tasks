@@ -13,6 +13,8 @@
 <li> arr[i] > arr[i + 1] > ... > arr[arr.length - 1] </li>
 </ul>
 </ul>
+
+<img src = "C:\Study\Java Learning\Pictures\hint_valid_mountain_array.png" width = "400" height = "300">
 Example 1:
 
 Input: arr = [2,1]
