@@ -10,10 +10,6 @@
 
 &nbsp; _Output: true_
 
-&nbsp; **Explanation:**
-
-&nbsp;&nbsp; _After calling your function, the input array is modified to: [1,0,0,2,3,0,0,4]_
-
 ### **Example 2:**
 
 &nbsp; _Input: s = "rat", t = "car"_
